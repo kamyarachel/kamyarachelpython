@@ -1,0 +1,23 @@
+step1 - type pwd
+
+step2 - type mkdir kamyarachel
+
+step3 - ls -option
+
+step4 - man ls (opens the manual for various options or commands)
+
+step5 - subl (is to open sublime text)
+
+step6 - say print and type your text with in the brackets and double qoutes
+
+step7 - go to file option save your file in ur directory
+
+step8 - type the name of the file and  .py (extention of python)
+
+step8 - go to the terminal 
+
+step9 - type cd kamyarachel (this is to derive the file that is saved in your directory)
+
+step10 - type python and the name of the file 
+
+step11 - press enter to execute your commmand
