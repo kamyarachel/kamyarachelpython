@@ -1,0 +1,120 @@
+dl308@soetcse:~$ subl
+dl308@soetcse:~$ cd kamyarachel
+bash: cd: kamyarachel: No such file or directory
+dl308@soetcse:~$ mkdir
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+dl308@soetcse:~$ mkdir kamyarachel
+dl308@soetcse:~$ cd kamyarachel
+dl308@soetcse:~/kamyarachel$ subl
+dl308@soetcse:~/kamyarachel$ python
+Python 2.7.15rc1 (default, Apr 15 2018, 21:51:34) 
+[GCC 7.3.0] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> a=20
+>>> b=30
+>>> c=a+b
+>>> print(c)
+50
+>>> a=45
+>>> b=60
+>>> c=66
+>>> d=a+b-c
+>>> print(d)
+39
+>>> a=100
+>>> b=1000
+>>> c=100%1000
+>>> print(c)
+100
+>>> a=46578309283746
+>>> b=o
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'o' is not defined
+>>> a=1234567890
+>>> b=0
+>>> c=a*b
+>>> print(c)
+0
+>>> exit()
+dl308@soetcse:~/kamyarachel$ python3 add.py
+enter value of a56
+enter value of b75
+131
+dl308@soetcse:~/kamyarachel$ python
+Python 2.7.15rc1 (default, Apr 15 2018, 21:51:34) 
+[GCC 7.3.0] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> a=30
+>>> b=25
+>>> a<b
+False
+>>> a>b
+True
+>>> a=b
+>>> a==b
+True
+>>> exit()
+dl308@soetcse:~/kamyarachel$ python class3if.py
+  File "class3if.py", line 5
+    else:
+       ^
+SyntaxError: invalid syntax
+dl308@soetcse:~/kamyarachel$ python3 class3if.py
+false
+dl308@soetcse:~/kamyarachel$ python3 class3if.py
+enter the value of a10
+enter the value of b5
+a is greater than b
+dl308@soetcse:~/kamyarachel$ python3 class3even.py
+  File "class3even.py", line 2
+    if a%2=0:
+          ^
+SyntaxError: invalid syntax
+dl308@soetcse:~/kamyarachel$ python3 class3even.py
+  File "class3even.py", line 2
+    if (a%2=0):
+           ^
+SyntaxError: invalid syntax
+dl308@soetcse:~/kamyarachel$ python3 class3even.py
+enter the value a6
+a is even
+dl308@soetcse:~/kamyarachel$ pyhton3 class3no.py
+
+Command 'pyhton3' not found, did you mean:
+
+  command 'python3' from deb python3-minimal
+
+Try: apt install <deb name>
+
+dl308@soetcse:~/kamyarachel$ python3 class3no.py
+enter the value of a100
+enter the value of b10
+100 is greater than 10
+dl308@soetcse:~/kamyarachel$ python3 class3pn.py
+  File "class3pn.py", line 2
+    if a>0:
+          ^
+SyntaxError: invalid syntax
+dl308@soetcse:~/kamyarachel$ python3 class3pn.py
+  File "class3pn.py", line 2
+    if a>0:
+          ^
+SyntaxError: invalid syntax
+dl308@soetcse:~/kamyarachel$ python3 class3pn.py
+  File "class3pn.py", line 2
+    if (a>0):
+            ^
+SyntaxError: invalid syntax
+dl308@soetcse:~/kamyarachel$ python3 class3pn.py
+enter the value of a8
+8 is positive
+dl308@soetcse:~/kamyarachel$ python3 class3elif.py
+enter the marks76
+B+
+dl308@soetcse:~/kamyarachel$ 
+
+
+
+

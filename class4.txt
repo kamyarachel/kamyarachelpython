@@ -1,0 +1,50 @@
+dl308@soetcse:~/kamyarachel$ python3 class4dice1.py
+enter q to quit and r to roll the dicer
+1
+dl308@soetcse:~/kamyarachel$ python3 class4dice.py
+enter 0 to quit,or anyother number6
+you have entered: 6
+enter 0 to quit,or anyother number0
+bye...
+dl308@soetcse:~/kamyarachel$ python3 class4dice.py
+enter 0 to quit,or anyother number0
+bye...
+dl308@soetcse:~/kamyarachel$ python3 class4dice1.py
+enter q to quit and r to roll the dicer
+1
+enter q to quit and r to roll the dicer
+6
+enter q to quit and r to roll the dicer
+5
+enter q to quit and r to roll the dicer
+3
+enter q to quit and r to roll the dicer
+6
+enter q to quit and r to roll the dicer
+1
+enter q to quit and r to roll the dicer
+4
+enter q to quit and r to roll the dicer
+6
+enter q to quit and r to roll the dicer
+6
+enter q to quit and r to roll the dicerr
+enter q to quit and r to roll the dicer
+4
+enter q to quit and r to roll the dicer
+5
+enter q to quit and r to roll the dicer
+1
+enter q to quit and r to roll the dicer
+3
+enter q to quit and r to roll the diceq
+bye
+enter q to quit and r to roll the diceq
+bye
+enter q to quit and r to roll the dice^Z
+[1]+  Stopped                 python3 class4dice1.py
+dl308@soetcse:~/kamyarachel$ python3 class4dice1.py
+enter q to quit and r to roll the diceq
+bye
+dl308@soetcse:~/kamyarachel$ 
+
