@@ -1,0 +1,131 @@
+dl308@soetcse:~$ cd kamyarachel
+dl308@soetcse:~/kamyarachel$ subl
+dl308@soetcse:~/kamyarachel$ python3 class5snake.py
+enter q to quit and r to roll the dicer
+your score is 0
+score is 1
+enter q to quit and r to roll the dicer
+your score is 1
+score is 5
+enter q to quit and r to roll the dicer
+your score is 5
+score is 8
+hurray!!! you got a ladder your score is 37
+enter q to quit and r to roll the dicer
+your score is 37
+score is 40
+hurray!!! you got a ladder your score is 68
+enter q to quit and r to roll the dicer
+your score is 68
+score is 72
+enter q to quit and r to roll the dicer
+your score is 72
+score is 76
+hurray!!! you got a ladder your score is 97
+enter q to quit and r to roll the dicer
+your score is 97
+score is 99
+enter q to quit and r to roll the dicer
+your score is 99
+score is 103
+enter q to quit and r to roll the diceq
+bye
+dl308@soetcse:~/kamyarachel$ python3 class6functions.py
+27
+dl308@soetcse:~/kamyarachel$ python3 class6functions.py
+-3
+dl308@soetcse:~/kamyarachel$ python3 class6functions.py
+15407021574586368
+dl308@soetcse:~/kamyarachel$ python3 class6functions.py
+180
+dl308@soetcse:~/kamyarachel$ python3 class6functions.py
+12
+dl308@soetcse:~/kamyarachel$ python3 class6functions2.py
+enter the value for a13
+Traceback (most recent call last):
+  File "class6functions2.py", line 6, in <module>
+    d=add()
+  File "class6functions2.py", line 3, in add
+    b=int(ipnput("enter the value of b"))
+NameError: name 'ipnput' is not defined
+dl308@soetcse:~/kamyarachel$ python3 class6functions2.py
+enter the value of a13
+enter the value of b14
+27
+dl308@soetcse:~/kamyarachel$ python3 class6functions2.py
+enter the value of a13
+enter the value of b50
+ADDITION 63
+SUBTRACTION -37
+dl308@soetcse:~/kamyarachel$ python3 class6functions2.py
+enter the value of a50
+enter the value of b60
+ADDITION 110
+SUBTRACTION -10
+dl308@soetcse:~/kamyarachel$
+dl308@soetcse:~/kamyarachel$ python3 class6functions2.py
+enter the value of a100
+enter the value of b50
+Traceback (most recent call last):
+  File "class6functions2.py", line 7, in <module>
+    d=add(i,j)
+NameError: name 'add' is not defined
+dl308@soetcse:~/kamyarachel$ python3 class6functions2.py
+enter the value of a100
+enter the value of b50
+Traceback (most recent call last):
+  File "class6functions2.py", line 7, in <module>
+    d=multipy(i,j)
+NameError: name 'multipy' is not defined
+dl308@soetcse:~/kamyarachel$ python3 class6functions2.py
+enter the value of a100
+enter the value of b50
+MULTIPLY 5000
+DIVIDE 0
+dl308@soetcse:~/kamyarachel$ python3 class6list.py
+  File "class6list.py", line 2
+    for i in fruits
+                  ^
+SyntaxError: invalid syntax
+dl308@soetcse:~/kamyarachel$ python3 class6list.py
+orange
+banana
+grapes
+apple
+mango
+dl308@soetcse:~/kamyarachel$ python3 class6list.py
+Traceback (most recent call last):
+  File "class6list.py", line 2, in <module>
+    print(fruits[3])
+TypeError: 'set' object does not support indexing
+dl308@soetcse:~/kamyarachel$ python3 class6list.py
+Traceback (most recent call last):
+  File "class6list.py", line 2, in <module>
+    print(fruits[0])
+TypeError: 'set' object does not support indexing
+dl308@soetcse:~/kamyarachel$ python3 class6list.py
+grapes
+orange
+banana
+mango
+apple
+dl308@soetcse:~/kamyarachel$ python3 class6dic.py
+  File "class6dic.py", line 1
+    colours=(1:'blue',2:'orange',3:'yellow')
+              ^
+SyntaxError: invalid syntax
+dl308@soetcse:~/kamyarachel$ python3 class6dic.py
+  File "class6dic.py", line 1
+    colours=(1:'blue',2:'orange',3:'yellow')
+              ^
+SyntaxError: invalid syntax
+dl308@soetcse:~/kamyarachel$ python3 class6dic.py
+  File "class6dic.py", line 1
+    colours=(1:'blue',2:'orange',3:'yellow')
+              ^
+SyntaxError: invalid syntax
+dl308@soetcse:~/kamyarachel$ python3 class6dic.py
+blue
+dl308@soetcse:~/kamyarachel$ 
+ 
+
