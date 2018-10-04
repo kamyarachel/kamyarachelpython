@@ -1,0 +1,136 @@
+dl308@soetcse:~$ subl
+dl308@soetcse:~$ cd kamyarachel
+dl308@soetcse:~/kamyarachel$ python3 class6stonepaper.py
+  File "class6stonepaper.py", line 14
+    elif p2=='p':
+       ^
+SyntaxError: invalid syntax
+dl308@soetcse:~/kamyarachel$ python3 class6stonepaper.py
+  File "class6stonepaper.py", line 12
+    elif:
+        ^
+SyntaxError: invalid syntax
+dl308@soetcse:~/kamyarachel$ python3 class6stonepaper.py
+  File "class6stonepaper.py", line 12
+    elif:
+        ^
+SyntaxError: invalid syntax
+dl308@soetcse:~/kamyarachel$ python3 class6stonepaper.py
+  File "class6stonepaper.py", line 12
+    elif:
+        ^
+SyntaxError: invalid syntax
+dl308@soetcse:~/kamyarachel$ python3 class6stonepaper.py
+3
+enter you choice r/p/sr
+player 2 got the point
+enter you choice r/p/ss
+player 1 got the point
+enter you choice r/p/sp
+player 1 got the point
+enter you choice r/p/sr
+player 2 got the point
+enter you choice r/p/sr
+player 2 got the point
+enter you choice r/p/s^[[A
+enter you choice r/p/sr
+player 2 got the point
+enter you choice r/p/sq
+enter you choice r/p/sp
+player 1 got the point
+enter you choice r/p/sq
+enter you choice r/p/s^CTraceback (most recent call last):
+  File "class6stonepaper.py", line 6, in <module>
+    p2=input("enter you choice r/p/s or q to quit")
+KeyboardInterrupt
+dl308@soetcse:~/kamyarachel$ python3 class6stonepaper.py
+p
+enter you choice r/p/s or q to quits
+player 1 got the point
+enter you choice r/p/s or q to quits
+player 1 got the point
+enter you choice r/p/s or q to quitr
+player 2 got the point
+enter you choice r/p/s or q to quitp
+player 1 got the point
+enter you choice r/p/s or q to quitq
+enter you choice r/p/s or q to quitq
+enter you choice r/p/s or q to quit^CTraceback (most recent call last):
+  File "class6stonepaper.py", line 6, in <module>
+    p2=input("enter you choice r/p/s or q to quit")
+KeyboardInterrupt
+dl308@soetcse:~/kamyarachel$ python3 class6stonepaper.py
+s
+enter you choice r/p/s or q to quitr
+player 2 got the point
+enter you choice r/p/s or q to quits
+player 1 got the point
+enter you choice r/p/s or q to quitr
+player 2 got the point
+enter you choice r/p/s or q to quitp
+player 1 got the point
+enter you choice r/p/s or q to quitq
+bye
+dl308@soetcse:~/kamyarachel$ python3 class6stonepaper.py
+s
+enter you choice r/p/s or q to quits
+tie!!
+enter you choice r/p/s or q to quitp
+player 1 got the point
+enter you choice r/p/s or q to quits
+tie!!
+enter you choice r/p/s or q to quitp
+player 1 got the point
+enter you choice r/p/s or q to quitq
+bye
+dl308@soetcse:~/kamyarachel$ python3 class6stonepaper.py
+r
+enter you choice r/p/s or q to quitr
+tie!!
+enter you choice r/p/s or q to quits
+player 1 got the point
+enter you choice r/p/s or q to quits
+player 1 got the point
+enter you choice r/p/s or q to quit^[[A
+enter you choice r/p/s or q to quitq
+bye
+dl308@soetcse:~/kamyarachel$ python3 class6stonepaper.py
+  File "class6stonepaper.py", line 8
+    p2=input("enter you choice r/p/s or q to quit")
+                                                  ^
+TabError: inconsistent use of tabs and spaces in indentation
+dl308@soetcse:~/kamyarachel$ python3 class6stonepaper.py
+  File "class6stonepaper.py", line 8
+    p2=input("enter you choice r/p/s or q to quit")
+                                                  ^
+TabError: inconsistent use of tabs and spaces in indentation
+dl308@soetcse:~/kamyarachel$ python3 class6stonepaper.py
+  File "class6stonepaper.py", line 9
+    if p2=='q':
+              ^
+TabError: inconsistent use of tabs and spaces in indentation
+dl308@soetcse:~/kamyarachel$ python3 class7multi.py
+2 X 1 = 2
+2 X 2 = 4
+2 X 3 = 6
+2 X 4 = 8
+2 X 5 = 10
+2 X 6 = 12
+2 X 7 = 14
+2 X 8 = 16
+2 X 9 = 18
+2 X 10 = 20
+dl308@soetcse:~/kamyarachel$ python3 class7tables.py
+enter your number4
+4 X 1 = 4
+4 X 2 = 8
+4 X 3 = 12
+4 X 4 = 16
+4 X 5 = 20
+4 X 6 = 24
+4 X 7 = 28
+4 X 8 = 32
+4 X 9 = 36
+4 X 10 = 40
+dl308@soetcse:~/kamyarachel$ 
+
